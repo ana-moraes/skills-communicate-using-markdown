@@ -2,6 +2,9 @@
 ## H2
 ### H3
 #### H4
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 ##### H5
 ```
 $ git init
